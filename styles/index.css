@@ -9,24 +9,17 @@
     background-size: cover;
 
 }
- #happy{
-   height: 10%;
-   width: 60%;
 
-  }
-#party{
-  background-color: #FF6347;
-  height: 10%;
-  width: 60%;
+ .row{
+    padding-left: 300px;
+ }
 
+#breakfast img{
+    height: 300px;
 }
-#Breakfast{
-  background-image: url(img/assets/foodtop/breakfast.jpg);
+#dinner img{
+  height: 300px;
 }
-#dinner{
-  background-image: url(img/assets/foodtop/dinner.jpg);
-  padding: 100px;
-}
-#lunch{
-  background-image: url(img/assets/foodtop/lunch.jpg);
+#lunch img{
+  height: 300px;
 }
