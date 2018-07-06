@@ -23,7 +23,8 @@
 #lunch img{
   height: 300px;
 }
-.row img{
-  padding: 20px;
+
+.container{
+  background: url(../img/assets/backgrounds/foodsBg.jpg);
+  padding: 90px;
 }
-#
