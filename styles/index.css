@@ -1,13 +1,17 @@
-.container{
-    background-image: url(../mpft-ip/ip2/assets/backgrounds/landing.jpg);
-    text-align: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+.container-fluid {
     margin: 0;
-    padding: 0;
-    font-size: 23px;
-
-
+    padding: 200px;
+    text-align: center;
+    font-size: 27px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200px;
+    background-image: url(../mpft-ip/ip2/assets/backgrounds/landing.jpg);
+    background-size: cover;
 
 }
-   
+
+
+
+
+
+
