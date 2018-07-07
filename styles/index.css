@@ -62,8 +62,6 @@
   height: 300px;
 }
 
-.container-fd{
-  background: url(../img/assets/backgrounds/foodsBg.jpg);
 }
 h3{
   font-size: 23px;
@@ -76,17 +74,26 @@ h3{
   font-size: 21px;
   font-family: "Roboto" sans-serif;
 
-
 }
+
 .contain-sd{
   background-image: url(img/assets/backgrounds/subscribe.jpg);
 }
+
 .subscribe{
   text-align: center;
   font
 
 }
-.delivers{
+.delivers img {
     font-size: 23px;
-    font-family: "Georgia", serif;
+    font-family: "Georgia",serif;
+    font-weight: bold;
+    color: white;
+}
+
+/*email div class */
+.email{
+  position: absolute;
+
 }
