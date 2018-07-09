@@ -115,8 +115,14 @@
   height: 600px;
   width: 101%;
   background-image: cover;
+  padding: 100px;
+  color: white;
 }
 
+.tabs{
+  font-size: 42px;
+  color: white;
+}
 #beefBurger{
   width: 300px;
 }
