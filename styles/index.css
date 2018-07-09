@@ -10,51 +10,37 @@
 
 }
 
-.col-md-5{
-  border: 6px solid #ddd;
-  border-radius: 9px;
-  padding: 3px;
-  width: 50px;
+#fastfood{
+  border-style: solid;
+  border-color: white;
+  border-width: 20px;
+  box-shadow:  0 0 10px 10px #f2f2f2;
+
+}
+.asset1{
+  width: 600px;
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#drinks{
+  border-style: solid;
+  border-color: white;
+  border-width: 10px;
+  box-shadow:  0 0 10px 10px #f2f2f2;
+}
 
  .row{
     padding-left: 300px;
  }
 
+
+
+}
 #breakfast img{
     height: 300px;
 }
+
+
 #dinner img{
   height: 300px;
 }
@@ -62,38 +48,82 @@
   height: 300px;
 }
 
+
+#happy-customers{
+  border: 8px; solid  #ddd;
+  border-radius: 10px;
+  width: auto;
+  padding: 3px;
+  background-color: white;
 }
+
+
+
+
+#meat{
+  background-image: url(../img/assets/backgrounds/foodsBg.jpg);
+}
+
+#happy-customers h3{
+  color: #ff6600;
+}
+
+
+
 h3{
   font-size: 23px;
-  color: #ff8c00;
+  color: #ff6600;
   text-align: center;
 }
+.col-md-4{
+  padding-left: 1psx;
+}
+
+#button1{
+  background-color: white;
+    border: 2px solid #ff6600;
+    color: #ff6600;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: absolute;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#button1:hover{
+   background-color: #ff6600;
+   color: whitesmoke;
+   font-family: "Georgia" serif;
+
+
+}
+.contain-sd{
+
+    text-align: center;
+    font-family: "Georgia". serif;
+    font-size: 15px;
+}
+
 .contain-em{
   text-align: center;
   background-color: #ff6600;
   font-size: 21px;
-  font-family: "Roboto" sans-serif;
+  font-family: "Georgia",serif;
+  color: white;
 
-}
-
-.contain-sd{
-  background-image: url(img/assets/backgrounds/subscribe.jpg);
 }
 
 .subscribe{
   text-align: center;
-  font
+  background-image: url(img/assets/backgrounds/subscribe.jpg);
+  background-image: cover;
 
 }
+
+
+
 .delivers img {
     font-size: 23px;
     font-family: "Georgia",serif;
-    font-weight: bold;
-    color: white;
-}
-
-/*email div class */
-.email{
-  position: absolute;
-
 }
