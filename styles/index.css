@@ -1,4 +1,4 @@
-.container-fluid {
+.logo{
     margin: 0;
     padding: 100px;
     text-align: center;
@@ -7,8 +7,76 @@
     font-weight: 200px;
     background-image: url(../img/assets/backgrounds/landing.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    width: 101%;
+
+
 
 }
+#styleone{
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman' Times, serif;
+}
+
+#partytime:{
+  width: 600px;
+
+}
+#hour{
+  width: 500px;
+  padding-bottom: 0.8em;
+}
+#time{
+  width:500px;
+  padding-bottom: 2.13em;
+  background-color: #ff6600;
+
+
+}
+#breakfast img{
+    height: 200px;
+    width:470px;
+
+}
+#breakfast:hover{
+  background-color: white;
+    color: black;
+
+}
+
+#dinner img{
+  height: 200px;
+  width: 475px;
+
+}
+#lunch img{
+  height: 200px;
+  width: 460px;
+}
+
+#button1{
+  background-color: white;
+    border: 2px solid #ff6600;
+    color: #ff6600;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: absolute;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#button1:hover{
+   background-color: #ff6600;
+   color: whitesmoke;
+   font-family: "Georgia" serif;
+}
+
+#imageicon{
+  font-size: 17px;
+
+}
+
 
 #fastfood{
   border-style: solid;
@@ -29,39 +97,36 @@
   box-shadow:  0 0 10px 10px #f2f2f2;
 }
 
- .row{
-    padding-left: 300px;
- }
-
-
-
-}
-#breakfast img{
-    height: 300px;
-}
-
-
-#dinner img{
-  height: 300px;
-}
-#lunch img{
-  height: 300px;
-}
 
 
 #happy-customers{
   border: 8px; solid  #ddd;
   border-radius: 10px;
   width: auto;
-  padding: 3px;
   background-color: white;
+  text-align: center;
 }
 
 
 
 
-#meat{
+.buttons{
   background-image: url(../img/assets/backgrounds/foodsBg.jpg);
+  height: 600px;
+  width: 101%;
+  background-image: cover;
+}
+
+#beefBurger{
+  width: 300px;
+}
+
+#chickenBurger{
+  width: 300px;
+}
+
+#chickenPizza{
+  width: 300px;
 }
 
 #happy-customers h3{
@@ -69,61 +134,46 @@
 }
 
 
-
-h3{
-  font-size: 23px;
-  color: #ff6600;
-  text-align: center;
+#customers{
+  font-size: 18px;
+  font-family: "Georgia", serif;
 }
+#customers h3{
+  color: #ff6600;
+}
+
+#menu{
+  font-size: 18px;
+  font-family: "Georgia", serif;
+}
+
+#menu h5{
+  color: #ff6600;
+
+}
+
+.customers h3{
+  color: #ff6600;
+}
+
 .col-md-4{
   padding-left: 1psx;
 }
 
-#button1{
-  background-color: white;
-    border: 2px solid #ff6600;
-    color: #ff6600;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: absolute;
-    font-size: 20px;
-    margin: 4px 2px;
-    cursor: pointer;
+.subscribe{
+  text-align: center;
 }
-#button1:hover{
-   background-color: #ff6600;
-   color: whitesmoke;
-   font-family: "Georgia" serif;
 
-
-}
-.contain-sd{
-
-    text-align: center;
-    font-family: "Georgia". serif;
-    font-size: 15px;
+.email{
+  color: white;
+  margin-top: -100px;
+  margin-left: 300px;
 }
 
 .contain-em{
-  text-align: center;
   background-color: #ff6600;
   font-size: 21px;
-  font-family: "Georgia",serif;
-  color: white;
-
-}
-
-.subscribe{
+  font-family: serif;
   text-align: center;
-  background-image: url(img/assets/backgrounds/subscribe.jpg);
-  background-image: cover;
-
-}
-
-
-
-.delivers img {
-    font-size: 23px;
-    font-family: "Georgia",serif;
+  color: whitesmoke;
 }
