@@ -29,6 +29,20 @@
   padding-left: 3em;
   padding-bottom: 1.55em;
   background-color: lightgrey;
+  font-size: 25px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+#Hour:hover{
+  background-color: grey;
+  color: white;
+
+}
+
+#Time:hover{
+    background-color: #ff6600;
+    color: white;
 }
 
 
@@ -39,6 +53,9 @@
   padding-left: 3em;
   padding-bottom: 2.85em;
   background-color: lightgrey;
+  font-size: 25px;
+  font-family: serif;
+  font-weight: bold;
 
 
 }
