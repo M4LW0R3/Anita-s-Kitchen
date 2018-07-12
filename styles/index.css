@@ -83,7 +83,12 @@
   border-color: white;
   border-width: 20px;
   box-shadow:  0 0 10px 10px #f2f2f2;
+  margin-left: -5em;
 
+
+}
+#foodtext{
+  
 }
 .asset1{
   width: 600px;
@@ -107,9 +112,6 @@
   text-align: center;
 }
 
-
-
-
 .buttons{
   background-image: url(../img/assets/backgrounds/foodsBg.jpg);
   height: 600px;
@@ -120,32 +122,51 @@
 }
 
 .nav{
-  font-size: 22px;
+  font-size: 30px;
   color: #ff6600;
 }
+
+
 .col-md-4{
   background-color: #f2f2f2;
 }
+
+
 #name{
   color: #ff6600;
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
   font-style: italic;
   font-weight: bold;
-  margin-top: 100px;
+  margin-top: 0px;
 
 }
+
+
 #beefBurger{
-  width: 200px;
+  width: 300px;
+  padding-top: 20px;
 }
+
 
 #chickenBurger{
-  width: 200px;
+  width: 300px;
+  padding-top: 20px;
 }
 
 #chickenPizza{
-  width: 200px;
+  width: 300px;
+  padding-top: 20px;
 }
+
+
+#customer-background{
+  border-style: solid;
+  border-color: white;
+  border-width: 10px;
+  box-shadow:  0 0 10px 10px #f2f2f2;
+}
+
 
 #happy-customers h3{
   color: #ff6600;
@@ -156,9 +177,12 @@
   font-size: 18px;
   font-family: "Georgia", serif;
 }
+
+
 #customers h3{
   color: #ff6600;
 }
+
 
 #menu{
   font-size: 18px;
@@ -182,10 +206,14 @@
   text-align: center;
 }
 
+#tomatos{
+  width: 2em;
+}
+
 .email{
   color: white;
   margin-top: -100px;
-  margin-left: 300px;
+  margin-left: -30px;
 }
 
 .contain-em{
