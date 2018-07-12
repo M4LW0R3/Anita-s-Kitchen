@@ -120,19 +120,31 @@
 }
 
 .nav{
-  font-size: 42px;
-  color: white;
+  font-size: 22px;
+  color: #ff6600;
+}
+.col-md-4{
+  background-color: #f2f2f2;
+}
+#name{
+  color: #ff6600;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+  margin-top: 100px;
+
 }
 #beefBurger{
-  width: 400px;
+  width: 200px;
 }
 
 #chickenBurger{
-  width: 400px;
+  width: 200px;
 }
 
 #chickenPizza{
-  width: 400px;
+  width: 200px;
 }
 
 #happy-customers h3{
