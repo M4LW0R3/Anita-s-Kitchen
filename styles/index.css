@@ -18,7 +18,7 @@
   font-family: Georgia, 'Times New Roman' Times, serif;
 }
 
-#partytime:{
+#partytime{ 
   width: 600px;
 
 }
@@ -100,7 +100,7 @@
 
 
 #happy-customers{
-  border: 8px; solid  #ddd;
+  border: 8px; solid  #dddd;
   border-radius: 10px;
   width: auto;
   background-color: white;
