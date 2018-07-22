@@ -1,8 +1,7 @@
-Anita's Kitchen
+# Anita's Kitchen
 By Bryan.
 # Description
 This is an independent project given to me by Moringa. The aim was to recreate a professionally done website called "Anita's Kitchen" in which they(Moringa) provided the assets and the image of the end product.
-
 # Technologies used
 HTML
 CSS
@@ -19,7 +18,6 @@ Bootstrap 4
 Jquery 3
 Contact details
 If you want to contact me to ask me about the concerned project, feel free to contact me using the following links.
-
 #Contact me
 [Gmail] (youngkhalifah98@gmail.com)
 
