@@ -9,7 +9,7 @@ Bootstrap
 JQUERY / JAVASCRIPT
 Google analytics integration
 Live Demo
-https://youngkhalid.github.io/anitas-kitchen/
+https://youngkhalid.github.io/Anita-s-Kitchen/
 
 # User Requirements/Setup
 Git
